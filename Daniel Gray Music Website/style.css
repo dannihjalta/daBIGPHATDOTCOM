@@ -45,6 +45,7 @@
 }
 
 .left-col h1{
+    text-shadow: 16px 16px 10px black;
     font-size: 90px;
     color: #fff;
     line-height: 110px;
