@@ -10,6 +10,8 @@
     background-size: cover;
     background-position: center;
     position: relative;
+    background-attachment: fixed;
+    overflow-y: scroll
 } 
 .navbar {
     width: 88%;
@@ -72,11 +74,13 @@
     width: 50em;
 }
 .writingOnMusic{
+    backdrop-filter: blur(3px);
     color: #fff;
     text-shadow: 16px 16px 10px black;
     margin-left: auto;
     margin-right: auto;
-    width: 40em;
+    width: 50em;
+    
 }
 .writingOnMusic a{
         text-decoration: none;
