@@ -23,7 +23,7 @@
 }   
 .logo {
     width: 280px;
-    cursor: pointer;    
+    cursor: pointer;   
 }
 .navbar ul li {
     list-style: none;
@@ -54,11 +54,10 @@
     line-height: 110px;
     float: left;
 }
-.bigLogo{
-    width: 2px;
+.bigLogo img{
+    width: 350px;
     margin-left: -5%;
-    
-
+    position: fixed;
 }
 .right-col{
     margin-right: 0%;
