@@ -55,11 +55,14 @@
     float: left;
 }
 .bigLogo{
-    margin-left: 6%;
+    width: 2px;
+    margin-left: -5%;
+    
 
 }
 .right-col{
     margin-right: 0%;
+
 }
 
 .right-col h1{
