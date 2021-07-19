@@ -85,6 +85,10 @@
     margin-right: auto;
     width: 40em;
 }
+.blocktext img{
+    display: inline block;
+    width: 250px;
+}
 .blog-field{
     margin-left: auto;
     margin-right: auto;
