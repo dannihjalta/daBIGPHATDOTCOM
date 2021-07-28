@@ -38,6 +38,7 @@ body p{
     color: white;
 }
 .blogContainer{
+    margin: auto;
     text-align: center;
 } 
 .blogContainer a {
