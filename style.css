@@ -43,6 +43,9 @@ body p{
 .blogContainer a {
     display: inline-block;
 }
+.blogPIC img{
+    display: inline-block;
+}
 
 
 .logoBottom img{
