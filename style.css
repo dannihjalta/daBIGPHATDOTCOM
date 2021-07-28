@@ -37,9 +37,13 @@ body p{
     text-align: left;
     color: white;
 }
-.picOnLeft img{
-    width: 290px;
+.blogContainer{
+    text-align: center;
+} 
+.blogContainer a {
+    display: inline-block;
 }
+
 
 .logoBottom img{
     position: fixed; bottom:0; left: 0;
